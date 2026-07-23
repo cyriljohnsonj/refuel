@@ -20,7 +20,7 @@ import {
 /* ------------------------------------------------------------------ */
 
 const T = {
-  bg: "radial-gradient(circle at 10% 6%, rgba(14,138,112,0.45) 0%, transparent 45%), radial-gradient(circle at 92% 10%, rgba(94,92,230,0.32) 0%, transparent 48%), radial-gradient(circle at 15% 55%, rgba(50,173,230,0.30) 0%, transparent 45%), radial-gradient(circle at 85% 90%, rgba(14,138,112,0.28) 0%, transparent 50%), #F5F6F3",
+  bg: "radial-gradient(circle at 10% 6%, rgba(14,138,112,0.45) 0%, transparent 45%), radial-gradient(circle at 92% 10%, rgba(94,92,230,0.32) 0%, transparent 48%), radial-gradient(circle at 15% 55%, rgba(50,173,230,0.30) 0%, transparent 45%), radial-gradient(circle at 85% 90%, rgba(14,138,112,0.28) 0%, transparent 50%), radial-gradient(circle at 40% 100%, rgba(94,92,230,0.30) 0%, transparent 55%), #F5F6F3",
   card: "#FFFFFF",
   border: "#EBEBE8",
   ink: "#16181D",
