@@ -1003,7 +1003,7 @@ export default function App() {
   const chartTooltip = { borderRadius: 10, border: `1px solid ${T.border}`, fontSize: 12 };
 
   return (
-    <div style={{ minHeight: "100vh", background: T.bg, color: T.ink, fontFamily: "'Inter', system-ui, sans-serif" }}>
+    <div style={{ minHeight: "100%", background: T.bg, color: T.ink, fontFamily: "'Inter', system-ui, sans-serif" }}>
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap');
         input:focus, select:focus { border-color: ${T.ink} !important; }
