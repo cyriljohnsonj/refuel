@@ -1,0 +1,14 @@
+{
+  "name": "Refuel",
+  "short_name": "Refuel",
+  "description": "Fuel expense & mileage tracker",
+  "start_url": "/refuel/",
+  "scope": "/refuel/",
+  "display": "standalone",
+  "background_color": "#F5F6F3",
+  "theme_color": "#16181D",
+  "icons": [
+    { "src": "/refuel/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/refuel/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
