@@ -1027,7 +1027,7 @@ export default function App() {
         }
       `}</style>
 
-      <div style={{ maxWidth: 460, margin: "0 auto", padding: "20px 16px 112px" }}>
+      <div style={{ maxWidth: 460, margin: "0 auto", padding: "calc(20px + env(safe-area-inset-top)) 16px 112px" }}>
         {/* header */}
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginBottom: GAP }}>
           <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
