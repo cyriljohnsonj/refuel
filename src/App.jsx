@@ -620,7 +620,6 @@ function QuickLog({ vehicle, meta, grades, lastFill, defaults, onSave }) {
           {s.prefix && <span className="num" style={{ fontSize: 26, color: T.muted }}>{s.prefix}</span>}
           <input
             key={s.key}
-            autoFocus
             type="number"
             inputMode="decimal"
             placeholder={s.placeholder}
